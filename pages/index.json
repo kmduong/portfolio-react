@@ -14,8 +14,8 @@
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Kevin Duong",
+    "subtitle": "I'm a Software Developer."
   },
   "about": {
     "title": "About me",
@@ -27,36 +27,34 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 1",
-        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
-        "url": "http://www.example.com/project1",
-        "github": "http://www.example.com/github",
-        "image": "/placeholder-700x350.png"
+        "title": "Pairnotes Website",
+        "description": "Agile team project: Collaborative platform built with Angular CLI & Google Firebase, featuring real-time note editing. Seamlessly share and edit notes for a dynamic user experience.",
+        "url": "https://pairnotesfinal.firebaseapp.com/",
+        "github": "https://github.com/kmduong/PairNotes",
+        "image": "/Pairnote-700x350.png"
       },
       {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+				"title": "Bob'sBlogify",
+				"description": "Bob'sBlogify: Seamlessly share your thoughts on this minimalist blogpost platform. Crafted with Spring Boot, Thymeleaf, and powered by Java for a robust blogging experience.",
 				"url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
+        "github": "https://github.com/kmduong/blog-application",
+				"image": "/Blog-750x350.png"
 			},
       {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
+				"title": "Submarine Simulation Environment",
+				"description": "Explore the ocean's depths with our Submarine Simulation project. In collaboration, we developed a captivating 3D environment using C++ and freeglut, allowing users to take the helm of a submarine. Engage in epic battles, navigate, and interact with a dynamic underwater world filled with objects and AI-controlled submarines.",
+        "github": "https://github.com/npkevin/Submarine-Simulation-Underwater-Environment",
+				"image": "/Submarine-700x350.jpg"
 			}
     ]
   },
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id"
+    "formId": "mpzgooew"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
+		"linkedin": "https://www.linkedin.com/in/kminhduong/",
+		"github": "https://github.com/kmduong/"
 	}
 }
