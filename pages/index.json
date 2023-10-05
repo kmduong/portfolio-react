@@ -35,7 +35,7 @@
       },
       {
 				"title": "Bob'sBlogify",
-				"description": "Bob'sBlogify: Seamlessly share your thoughts on this minimalist blogpost platform. Crafted with Spring Boot, Thymeleaf, and powered by Java for a robust blogging experience.",
+				"description": "Blog'sBlogify: Seamlessly share your thoughts on this minimalist blogpost platform. Crafted with Spring Boot, Thymeleaf, and powered by Java for a robust blogging experience.",
 				"url": "#",
         "github": "https://github.com/kmduong/blog-application",
 				"image": "/Blog-750x350.png"
