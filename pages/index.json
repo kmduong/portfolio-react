@@ -20,8 +20,8 @@
   "about": {
     "title": "About me",
     "image": "/placeholder.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals."
+    "primary": "I am Kevin, I have studied at Ryerson University and have my Bachelor's Degree in Science as a Computer Science major. I am currently looking to become a software developer and continue  to hone my skills as a developer. I have established a solid foundation in Java, showcasing my expertise in object-oriented programming principles. In addition to my proficiency in Java, I have acquired valuable skills in web development, with experience in frameworks such as Spring Boot, Angular and React. My passion for technology drives me to continually explore new horizons, and my current journey involves immersing myself in the dynamic Salesforce platform. ",
+    "secondary": "My main hobby is cooking, I love to experiment with different recipes and cooking methods and customizing them to perfection."
   },
   "projects": {
     "title": "Projects",
@@ -36,7 +36,7 @@
       {
 				"title": "Bob'sBlogify",
 				"description": "Bob'sBlogify: Seamlessly share your thoughts on this minimalist blogpost platform. Crafted with Spring Boot, Thymeleaf, and powered by Java for a robust blogging experience.",
-				"url": "http://www.example.com/project2",
+				"url": "#",
         "github": "https://github.com/kmduong/blog-application",
 				"image": "/Blog-750x350.png"
 			},

@@ -8,16 +8,9 @@ const About = () => {
     <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500">
       <h1 className="pt-12 uppercase font-bold text-center text-white text-bold text-4xl">{about.title}</h1>
       <div className="mt-16 flex flex-col md:flex-row align-center items-center">
-        <div className="w-1/2 flex justify-center content-center">
-          <Image 
-            src={about.image} 
-            alt="about" 
-            className="shadow-lg" 
-            width={300} 
-            height={300}
-            />
+        <div className="w-1/4 flex justify-center content-center">
         </div>
-        <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left">
+        <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left mx-auto my-auto">
           <div className="about__primary">
             <span>{about.primary}</span>
           </div>
@@ -25,7 +18,7 @@ const About = () => {
             <span>{about.secondary}</span>
           </div>
           <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
-            <a href={'#'} className="about__resume text-white text-l">View Resume</a>
+            <a href={'https://drive.google.com/file/d/1h1TULODKSKQasdyj8cXgRF9G0Yf8td1R/view'} className="about__resume text-white text-l">View Resume</a>
           </div>
         </div>
       </div>
